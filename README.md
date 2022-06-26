@@ -1,1 +1,1 @@
-# KRS-game
+# KRA-game
